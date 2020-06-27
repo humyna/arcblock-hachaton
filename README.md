@@ -22,7 +22,7 @@ abtnote start
 > abtnode deploy .
 
 ## step 6 浏览器访问
-> http://192.168.1.105:8089/blocklets
+> http://[your ip]:8089/blocklets
 
 ## 游戏截图
 
