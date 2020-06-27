@@ -26,7 +26,7 @@ abtnote start
 
 ## 游戏截图
 
-![游戏截图](./screenshots/game.jpeg)
+![游戏截图](./finger-guessing-game-blocklet/screenshots/game.jpeg)
 
 ## 未来规划 todolist
 * 支持用户登录
