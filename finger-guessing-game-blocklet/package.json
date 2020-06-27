@@ -33,14 +33,14 @@
     ]
   },
   "blocklet": {
-    "group": "static",
+    "group": "dapp",
     "color": "primary",
-    "main": "build",
+    "main": "server/server.js",
     "logo": "logo.png",
     "provider": "Finn",
     "support": "hf@gmail.com",
     "config_url": "",
-    "public_url": "index.html",
+    "public_url": "/server/",
     "doc_url": ""
   }
 }

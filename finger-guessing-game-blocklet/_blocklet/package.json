@@ -1,0 +1,16 @@
+{
+  "name": "finger-guessing-game-blocklet",
+  "version": "1.1.1",
+  "description": "finger-guessing-game-blocklet for hackaton",
+  "blocklet": {
+    "group": "dapp",
+    "color": "primary",
+    "main": "server/server.js",
+    "logo": "logo.png",
+    "provider": "Finn",
+    "support": "hf@gmail.com",
+    "config_url": "",
+    "public_url": "/server/",
+    "doc_url": ""
+  }
+}
